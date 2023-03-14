@@ -2,7 +2,7 @@ services:
   - type: web
     name: anaylytics
     env: docker
-    repo: https://github.com/thomascenni/umami.git
+    repo: https://github.com/ashabhussan/umami.git
     region: oregon # optional (defaults to oregon)
     plan: free
     branch: main
